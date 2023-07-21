@@ -10,7 +10,7 @@ hobi = "Coding ringan"
 
 alamat = "kerambitan, Tabanan"
 
-kabupaten = "Tabanan Rock City"
+kota = "Tabanan Rock City"
 
 print("Nama Lengkap:",nama)
 
