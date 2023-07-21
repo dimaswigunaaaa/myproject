@@ -1,6 +1,23 @@
-tes 1
-tes 2
-tes 3
-tes 4
-tes 5
-tes 6
+print ("================================")
+
+print ("Program Biodata Sederhana Dengan Python")
+
+print ("================================")
+
+nama= "dimas wiguna"
+
+hobi = "Coding ringan"
+
+alamat = "kerambitan, Tabanan"
+
+Kota = "Tabanan Rock City"
+
+print("Nama Lengkap:",nama)
+
+print("Alamat",alamat, "\n           Kota ", Kota)
+
+print("Hobi:",hobi)
+
+
+
+print ("================================")
